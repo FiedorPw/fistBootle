@@ -28,3 +28,5 @@ def add_activity():
 
 if __name__ == '__main__':
     run(app, host='localhost', port=8080)
+
+    #placek
