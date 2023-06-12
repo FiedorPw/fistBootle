@@ -1,3 +1,4 @@
+
 from bottle import Bottle, run, template, request, redirect
 
 # Store activities in a list for simplicity
@@ -29,4 +30,4 @@ def add_activity():
 if __name__ == '__main__':
     run(app, host='localhost', port=80)
 
-    #placek
+    #placekkk
